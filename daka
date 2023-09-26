@@ -1,0 +1,73 @@
+[33mcommit 0bb01d9fbf99bca397a8fd5b7dbcc2fe18e060bc[m[33m ([m[1;36mHEAD -> [m[1;32mlogin[m[33m)[m
+Author: Neider <garzoncubillos@gmail.com>
+Date:   Mon Sep 25 19:23:20 2023 -0500
+
+    Corrección conflicto
+
+[33mcommit a0b184a5461cc3c8f6270f635680ce87f8514469[m
+Merge: 2896b1c 16bcc19
+Author: Neider <garzoncubillos@gmail.com>
+Date:   Mon Sep 25 19:22:37 2023 -0500
+
+    correccion conflicto
+
+[33mcommit 16bcc1929be6f2385c78dd30b5d66998dcb9d93b[m[33m ([m[1;32mmain[m[33m)[m
+Author: Neider <garzoncubillos@gmail.com>
+Date:   Mon Sep 25 19:13:53 2023 -0500
+
+    Git 3 v3
+
+[33mcommit 2896b1c8de960fba071b69e821dbc645d5031736[m
+Author: Neider <garzoncubillos@gmail.com>
+Date:   Mon Sep 25 19:12:16 2023 -0500
+
+    Git 3 login
+
+[33mcommit 5d50945fc48e9b5de3b81ba2db416aeabfcd1a96[m
+Merge: a044419 df9c91a
+Author: Neider <garzoncubillos@gmail.com>
+Date:   Mon Sep 25 19:08:19 2023 -0500
+
+    Merge branch 'main' into login
+
+[33mcommit df9c91a70b3eb608eb5c856a89663875a14047d3[m
+Author: Neider <garzoncubillos@gmail.com>
+Date:   Mon Sep 25 19:04:45 2023 -0500
+
+    git 3 v2
+
+[33mcommit a0444198b8158cfc5ba2e6f53d62aa52968211ee[m
+Author: Neider <garzoncubillos@gmail.com>
+Date:   Mon Sep 25 18:59:47 2023 -0500
+
+    Login
+
+[33mcommit cac32ddddb690fcf26a06eaede8d170c6ece9d2d[m
+Author: Neider <garzoncubillos@gmail.com>
+Date:   Mon Sep 25 18:24:50 2023 -0500
+
+    Este es mi quinto commit
+
+[33mcommit fbafd368d1765ed837c7e92b4c77bc3dbd4d17c9[m[33m ([m[1;33mtag: clase_1[m[33m)[m
+Author: Neider <garzoncubillos@gmail.com>
+Date:   Fri Sep 22 23:32:59 2023 -0500
+
+    Se añade el .gitignore
+
+[33mcommit 43749095c0b9d7c2f494f38240c4648f47d14910[m
+Author: Neider <garzoncubillos@gmail.com>
+Date:   Fri Sep 22 23:20:26 2023 -0500
+
+    Se actualiza el texto del print
+
+[33mcommit aabfd6411c09626e475782d5b46642ba7d798faf[m
+Author: Neider <garzoncubillos@gmail.com>
+Date:   Fri Sep 22 23:11:40 2023 -0500
+
+    Este es mi segundo commit
+
+[33mcommit 10cf41aa6a7173ba8da7d34ac4d466aa50884aa0[m
+Author: Neider <garzoncubillos@gmail.com>
+Date:   Fri Sep 22 23:08:25 2023 -0500
+
+    Este es mi primer commit
